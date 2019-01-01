@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "pieing.cafe"
+baseURL = "https://www.pieing.cafe/"
+tags = ["blog"]
+languageCode = "pl-PL"
+config = "config.toml"
+theme = "cleanwhite"
+canonifyURLS = true
+
+[taxonomies]
+  tag = "tags"
