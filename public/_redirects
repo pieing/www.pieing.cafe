@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+http://pieing-cafe.netlify.com/* http://www.pieing.cafe/:splat 301!
+
